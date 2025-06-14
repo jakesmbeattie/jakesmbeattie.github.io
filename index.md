@@ -11,7 +11,7 @@ layout: home
 
 [[About](#about-me)] [[Updates](#updates)] [[Research](#research)]
 
-[[Extra Bits](#extra-bits)]
+[[Extra Bits](#extra-bits)] [[CV](./assets/pdf/cv.pdf)]
 
 <a id="about-me" />
 ## About Me
