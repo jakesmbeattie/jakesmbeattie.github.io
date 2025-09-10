@@ -37,7 +37,7 @@ My research is focused on using advances in AI theory to motivate new methods th
 <a id="research" />
 
 ## Research
-Over the course of my PhD (and beyond), my goal is to find some fundamental (and hopefully quite cool) observation about how ML models learn/structure their latent spaces, and leverage this observation to accelerate ecological research and scientific discovery. To this end, I have already begun to work with incredible ecologists and biologists through the Imageomics Institute and the ABC Global Center. On the horizon, I have some projects that begin to work towards these theoretical observations as well.
+My main research interests lie at the intersection of AI, Explainability, and applications in Ecology/Biology. Over the course of my PhD (and beyond), my goal is to find some fundamental (and hopefully quite cool) observation about how ML models learn/structure their latent spaces, and leverage this observation to accelerate ecological research and scientific discovery. To this end, I have already begun to work with incredible ecologists and biologists through the Imageomics Institute and the ABC Global Center. On the horizon, I have some projects that begin to work towards these theoretical observations as well.
 
 ### Papers
 Papers that I am particularly proud of and that encapsulate my overall research contributions well (currently exhaustive)
