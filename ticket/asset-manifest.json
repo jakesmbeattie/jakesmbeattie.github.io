@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ticket/static/css/main.b996df7f.chunk.css",
+    "main.js": "/ticket/static/js/main.86af9ef6.chunk.js",
+    "main.js.map": "/ticket/static/js/main.86af9ef6.chunk.js.map",
+    "runtime-main.js": "/ticket/static/js/runtime-main.67237004.js",
+    "runtime-main.js.map": "/ticket/static/js/runtime-main.67237004.js.map",
+    "static/css/2.4261cfdf.chunk.css": "/ticket/static/css/2.4261cfdf.chunk.css",
+    "static/js/2.97362bca.chunk.js": "/ticket/static/js/2.97362bca.chunk.js",
+    "static/js/2.97362bca.chunk.js.map": "/ticket/static/js/2.97362bca.chunk.js.map",
+    "index.html": "/ticket/index.html",
+    "precache-manifest.9d70c37180d6b9f154362f61ab47c8e3.js": "/ticket/precache-manifest.9d70c37180d6b9f154362f61ab47c8e3.js",
+    "service-worker.js": "/ticket/service-worker.js",
+    "static/css/2.4261cfdf.chunk.css.map": "/ticket/static/css/2.4261cfdf.chunk.css.map",
+    "static/css/main.b996df7f.chunk.css.map": "/ticket/static/css/main.b996df7f.chunk.css.map",
+    "static/js/2.97362bca.chunk.js.LICENSE.txt": "/ticket/static/js/2.97362bca.chunk.js.LICENSE.txt",
+    "static/media/apple-wallet.png": "/ticket/static/media/apple-wallet.fef8718c.png",
+    "static/media/semantic.min.css": "/ticket/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/Ticket.css": "/ticket/static/media/ohio-stadium.7481dbc8.jpeg",
+    "static/media/x-icon.png": "/ticket/static/media/x-icon.4f4bf934.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67237004.js",
+    "static/css/2.4261cfdf.chunk.css",
+    "static/js/2.97362bca.chunk.js",
+    "static/css/main.b996df7f.chunk.css",
+    "static/js/main.86af9ef6.chunk.js"
+  ]
+}
