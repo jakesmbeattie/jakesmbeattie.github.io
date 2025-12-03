@@ -42,7 +42,7 @@ My research is focused on the intersection of interpretability methods and scien
 ## Research
 My main research interests lie at the intersection of AI, Explainability, and applications in Ecology/Biology. Over the course of my PhD (and beyond), my goal is to find some fundamental observation about how ML models structure their representations, and leverage this observation to accelerate ecological research and scientific discovery. To this end, I have already begun to work with incredible ecologists and biologists through the Imageomics Institute and the ABC Global Center. On the horizon, I have some projects that begin to work towards these theoretical observations as well.
 
-Recently, <a href="">I have focused on formalizing morphological traits using sparse autoencoders</a>. 
+Recently, <a href="https://doi.org/10.48550/arXiv.2511.17735">I have focused on discovering morphological traits using sparse autoencoders</a>. 
 
 ### Papers
 Papers that I am particularly proud of and that encapsulate my overall research contributions well (currently exhaustive)
