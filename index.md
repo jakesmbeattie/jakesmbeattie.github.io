@@ -27,14 +27,12 @@ My research is focused on the intersection of interpretability methods and scien
 ## Updates
 <div style="min-width:400px;height:150px;line-height:1.5em;overflow:scroll;padding:5px;">
 <ul>
-
-<li>12/2025 - I will be attending NeurIPS in San Diego. Please reach out if you'd like to chat about interpretability, AI for science, or anything else!
-<li>11/2025 - Released a preprint in collaboration with Sam Stevens, <a href="https://doi.org/10.48550/arXiv.2511.17735">Towards Open-Ended Visual Scientific Discover with Sparse Autoencoders</a>. 
-<li>06/2025 - I am pleased to announce that a project I led focused on improving clinical trial screening with RAG following my graduation from undergrad has been accepted into Machine Learning: Health! You can find it <a href="https://doi.org/10.1088/3049-477X/adbd47?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle">here</a>
+<li>12/2025 - I will be attending NeurIPS in San Diego. Please reach out if you'd like to chat about interpretability, AI for science, or anything else!</li>
+<li>11/2025 - Released a preprint in collaboration with Sam Stevens, <a href="https://doi.org/10.48550/arXiv.2511.17735">Towards Open-Ended Visual Scientific Discover with Sparse Autoencoders</a>. </li>
+<li>06/2025 - I am pleased to announce that a project I led focused on improving clinical trial screening with RAG following my graduation from undergrad has been accepted into Machine Learning: Health! You can find it <a href="https://doi.org/10.1088/3049-477X/adbd47?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle">here</a></li>
 <li>06/2025 - I will be attending CVPR from 06/11 - 06/15 in Nashville! Stop by CV4Animals to say hi and take a look at our poster</li>
 <li>05/2025 - <a href="https://drive.google.com/file/d/1GJBsEcx_ZZzJaY_Rv_LZgIV8LsowlYJR/view">Habitat-Driven Vocal Variation in Hawai'ian Birds</a>, a paper that I helped write, was accepted into the CV4Animals workshop at CVPR! </li>
 <li>01/2025 - I travelled to Hawai'i as part of the <i>Experiential Introduction to AI and Ecology course</i>. Over two weeks (and with the massive help of <a href="https://www.neonscience.org/">NEON</a> staff and UH Hilo's <a href="https://lohelab.org/">Pat Hart and Amanda Navine</a>), we collected some pretty awesome acoustic data on Hawai'ian birds.</li>
-
 </ul>
 </div>
 
