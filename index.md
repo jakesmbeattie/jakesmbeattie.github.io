@@ -13,8 +13,6 @@ layout: home
 
 [[Extra Bits](#extra-bits)] [[CV](./assets/pdf/cv.pdf)]
 
-Email: [beattie.74@osu.edu]
-
 <a id="about-me" />
 ## About Me
 My name is Jacob (Jake) Beattie, and I am a Computer Science and Engineering PhD student at The Ohio State University. I have the wonderful pleasure of being advised by [Dr. Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) and contributing to the [Imageomics Institute](https://imageomics.osu.edu/) and [AI and Biodiversity Change (ABC) Global Center](https://www.abcresearchcenter.org/about). 
