@@ -10,16 +10,17 @@ layout: home
 # Jake Beattie 
 
 [[About](#about-me)] [[Updates](#updates)] [[Research](#research)]
-
-[[Extra Bits](#extra-bits)] [[CV](./assets/pdf/cv.pdf)]
+[[Extras](#extra-bits)] [[CV](./assets/pdf/cv.pdf)]
 
 <a id="about-me" />
+
 ## About Me
+
 My name is Jacob (Jake) Beattie, and I am a Computer Science and Engineering PhD student at The Ohio State University. I have the wonderful pleasure of being advised by [Dr. Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) and contributing to the [Imageomics Institute](https://imageomics.osu.edu/) and [AI and Biodiversity Change (ABC) Global Center](https://www.abcresearchcenter.org/about). 
 
 I completed dual Bachelor's in Computer Science and Mathematics at Iowa State University in 2023. Go Cyclones!
 
-My research is focused on the intersection of interpretability methods and scientific applications such as ecology, biology, and more. Lately, I have been specifically focused on how to use interpretability methods to accelerate scientific discovery.
+My research is focused on the intersection of interpretability methods and scientific applications such as ecology, biology, and more. I am driven by my passion for the natural world, and I hope to enable and advance our understanding of it. Lately, I have been focused on how to use interpretability methods to accelerate scientific discovery, working directly with ecologists and biologists.
 
 
 <a id="updates" />
@@ -27,6 +28,9 @@ My research is focused on the intersection of interpretability methods and scien
 ## Updates
 <div style="min-width:400px;height:150px;line-height:1.5em;overflow:scroll;padding:5px;">
 <ul>
+<li>11/2026 - I had the pleasure of presenting my work on trait discovery at the <a href="https://ecnweb.net/welcome/meeting/">Entomological Collections Network annual meeting</a>.</li>
+<li>10/2026 - An updated version of our preprint focused on validating SAEs and heuristic ranking for visual scientific discovery is now available! Find it <a href="https://doi.org/10.48550/arXiv.2511.17735">here</a>.</li>
+<li>02/2026 - I visited the Beery Lab at MIT to kick off some projects focused on visual trait discvoery in various settings. Looking forward to continuing this work!</li> 
 <li>12/2025 - I will be attending NeurIPS in San Diego. Please reach out if you'd like to chat about interpretability, AI for science, or anything else!</li>
 <li>11/2025 - Released a preprint in collaboration with Sam Stevens, <a href="https://doi.org/10.48550/arXiv.2511.17735">Towards Open-Ended Visual Scientific Discover with Sparse Autoencoders</a>. </li>
 <li>06/2025 - I am pleased to announce that a project I led focused on improving clinical trial screening with RAG following my graduation from undergrad has been accepted into Machine Learning: Health! You can find it <a href="https://doi.org/10.1088/3049-477X/adbd47?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle">here</a></li>
@@ -40,29 +44,35 @@ My research is focused on the intersection of interpretability methods and scien
 <a id="research" />
 
 ## Research
-My main research interests lie at the intersection of AI, Explainability, and applications in Ecology/Biology. Over the course of my PhD (and beyond), my goal is to find some fundamental observation about how ML models structure their representations, and leverage this observation to accelerate ecological research and scientific discovery. To this end, I have already begun to work with incredible ecologists and biologists through the Imageomics Institute and the ABC Global Center. On the horizon, I have some projects that begin to work towards these theoretical observations as well.
+My main research interests lie at the intersection of AI, Explainability, and applications in Ecology/Biology. Over the course of my PhD, my goal is to find some fundamental observation about how ML models structure their representations, and leverage this observation to accelerate ecological research and scientific discovery. To this end, I have already begun to work with incredible ecologists and biologists through the Imageomics Institute and the ABC Global Center. Currently, I am working with these domain experts to identify and validate novel traits using interpretability method
 
 Recently, <a href="https://doi.org/10.48550/arXiv.2511.17735">I have focused on discovering morphological traits using sparse autoencoders</a>. 
 
 ### Papers
-Papers that I am particularly proud of and that encapsulate my overall research contributions well (currently exhaustive)
 
-<b>Towards Open-Ended Visual Scientific Discover with Sparse Autoencoders</b>
+<b>Towards Open-Ended Visual Scientific Discover with Sparse Autoencoders</b> - in review
 
-Samuel Stevens, <b>Jacob Beattie</b>, Tanya Berger-Wolf, Yu Su
+<b>Jacob Beattie</b>, Samuel Stevens, Tanya Berger-Wolf, Yu Su
 [[Preprint](https://doi.org/10.48550/arXiv.2511.17735)]
 
-<b> Habitat-Driven Vocal Variation in Hawai'ian Birds</b> 
+
+<b> Autonomous Field Guides: Sparse Autoencoders and Heuristic Ranking for Diagnostic Trait Learning </b> - NeurIPS 2026 Interp4Discovery Workshop
+
+<b>Jacob Beattie</b>, Samuel Stevens, Tanya Berger-Wolf
+[[Paper](https://openreview.net/forum?id=QT4i8fp6f9)]
+
+
+<b> Habitat-Driven Vocal Variation in Hawai'ian Birds</b> - CVPR 2025 CV4Animals Workshop 
 
 Namrata Banerji, Ekaterina Nepovinnykh, <b>Jacob Beattie</b>, Hikaru Keebler, Leonardo Teixeira Viotti, Amanda Navine, Patrick Hart, Mike Long, Shea Uehana, Eissas Ouk, Evan Donoso, Avery Dean, Ann Carey, Tanya Berger-Wolf, Kaiya L Provost [[Paper](https://drive.google.com/file/d/1GJBsEcx_ZZzJaY_Rv_LZgIV8LsowlYJR/view)]
 
-<b> ChatGPT augmented clinical trial screening </b>
+<b> ChatGPT augmented clinical trial screening </b> - Machine Learning: Health 2025
 
 <b>Jacob Beattie</b>, Dylan Owens, Ann Marie Navar, Luiza Giuliani Schmitt, Kimberly Taing, Sarah Neufeld1, Daniel Yang,Christian Chukwuma1, Ahmed Gul, Dong Soo Lee, Neil Desai, Dominic Moon, Jing Wang, Steve Jiang, and Michael Dohopolski
-[[Paper](https://doi.org/10.1088/3049-477X/adbd47?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle)]
+[[Paper](https://iopscience.iop.org/article/10.1088/3049-477X/adbd47)]
 
 <a id="extra-bits" />
 
-## Extra Bits
-In my free time, I enjoy baking. If you happen to live in Columbus, OH, and desperately want a homemade loaf of bread, I can make one for you (in exchange for a few bucks for a poor grad student).
+## Extras
 
+Feel free to email me any baking recipe or book recommendations that you love! I am always looking to expand my tastes. 
